@@ -36,14 +36,8 @@ This project adheres to the **MVC architecture**:
 - **Language**: Java
 - **Framework**: MVC Pattern Implementation
 - **Styling**: CSS for user interface enhancements
-- **Database**: SQLite/MySQL for data storage (if applicable)
-- **Build Tool**: Maven/Gradle (optional)
+- **Database**: Mysql Work bench
+- **Build Tool**: Visual studio
 
----
 
-## Setup Instructions
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/bus-seat-booking-system.git
 
